@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: 437e4a737d192ed46b22baf3a394c259
+timeCreated: 1516418563
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpaceShooterWithNoText_0
+    21300002: SpaceShooterWithNoText_1
+    21300004: SpaceShooterWithNoText_2
+    21300006: SpaceShooterWithNoText_3
+    21300008: SpaceShooterWithNoText_4
+    21300010: SpaceShooterWithNoText_5
+    21300012: SpaceShooterWithNoText_6
+    21300014: SpaceShooterWithNoText_7
+    21300016: SpaceShooterWithNoText_8
+    21300018: SpaceShooterWithNoText_9
+    21300020: SpaceShooterWithNoText_10
+    21300022: SpaceShooterWithNoText_11
+    21300024: SpaceShooterWithNoText_12
+    21300026: SpaceShooterWithNoText_13
+    21300028: SpaceShooterWithNoText_14
+    21300030: SpaceShooterWithNoText_15
+    21300032: SpaceShooterWithNoText_16
+    21300034: SpaceShooterWithNoText_17
+    21300036: SpaceShooterWithNoText_18
+    21300038: SpaceShooterWithNoText_19
+    21300040: SpaceShooterWithNoText_20
+    21300042: SpaceShooterWithNoText_21
+    21300044: SpaceShooterWithNoText_22
+    21300046: SpaceShooterWithNoText_23
+    21300048: SpaceShooterWithNoText_24
+    21300050: SpaceShooterWithNoText_25
+    21300052: SpaceShooterWithNoText_26
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpaceShooterWithNoText_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1357
+        height: 2048
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceShooterWithNoText_1
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1633
+        width: 96
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceShooterWithNoText_2
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1609
+        width: 273
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceShooterWithNoText_3
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1398
+        width: 205
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceShooterWithNoText_4
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1340
+        width: 205
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceShooterWithNoText_5
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1142
+        width: 14
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceShooterWithNoText_6
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1180
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceShooterWithNoText_7
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1176
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceShooterWithNoText_8
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1172
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceShooterWithNoText_12
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1082
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceShooterWithNoText_13
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1085
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceShooterWithNoText_16
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 882
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceShooterWithNoText_17
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 782
+        width: 137
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceShooterWithNoText_18
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 827
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceShooterWithNoText_19
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 646
+        width: 84
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceShooterWithNoText_20
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 462
+        width: 151
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceShooterWithNoText_21
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 434
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceShooterWithNoText_22
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 338
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceShooterWithNoText_23
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 224
+        width: 204
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceShooterWithNoText_24
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 184
+        width: 115
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceShooterWithNoText_25
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 30
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceShooterWithNoText_26
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1085
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
